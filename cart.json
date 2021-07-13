@@ -1,0 +1,18 @@
+{
+    "contents": [
+        {
+            "imgUrl": "img/box_img-1.jpg",
+            "title": "windbreaker",
+            "price": "$200.00",
+            "id": 0,
+            "quantity": 1
+        },
+        {
+            "imgUrl": "img/box_img-2.jpg",
+            "title": "pantsuit",
+            "price": "$150.00",
+            "id": 1,
+            "quantity": 1
+        }
+    ]
+}
